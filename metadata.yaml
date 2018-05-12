@@ -1,4 +1,5 @@
 _repo: The-Splendid-Outcast_47900
+_version: 0.1.0
 contributor:
   illustrator: &id001
     agent_name: Gibbs, George
@@ -7,9 +8,14 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '4037'
     url: http://www.gutenberg.org/2009/agents/4037
+covers:
+- cover_type: archival
+  image_path: 47900-rst/images/img-cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47900#The-Splendid-Outcast
 gutenberg_issued: '2015-01-06'
 gutenberg_type: Text
 identifiers:
